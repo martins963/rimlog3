@@ -1,0 +1,433 @@
+Mono path[0] = 'C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     8137 MB
+    Driver:   31.0.101.2115
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.201 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.936200 ms
+RimWorld 1.4.3704 rev886
+Mod Femboy Gene has a dependency (Ludeon.RimWorld.Biotech) with empty display name. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BCF6020.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B366B388F0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B3897B20C0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BE36A20.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B3894CC110.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BE7B010.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BEA1620.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BEC9E40.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B3897A6080.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B366B374E0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BECF650.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BED4660.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BEDA270.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BEDE480.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BF06690.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B388F92010.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BF8B020.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BF8E830.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BFB9A50.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B366B84A40.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BFE5070.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BFE6680.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38BFE7C90.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C0034B0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C00D2C0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C176010.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C178C20.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C20E010.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C231820.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C260A40.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C28E850.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C325010.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C330E20.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C354250.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C361860.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B3891B30B0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C376290.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B389075970.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C4690C0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C5AE4F0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C6AFF30.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C74A010.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C75D010.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C774430.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C788440.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C7BF070.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B388F95430.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C7CEE90.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C7D82A0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C7D98B0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C802EC0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C8350D0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C83D4E0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C846EF0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C87A110.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C883720.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38C990F60.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38CA9CD90.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38CB07010.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38CB43A20.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38D878040.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38CBB2DE0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38CBD4400.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DAD2090.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38CBF0E30.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38CBF3E40.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B366B338B0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DCBD990.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DCC9BA0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DBD00B0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DCE69C0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DD77020.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DDD2830.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DE11850.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DE1C860.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DE42070.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DE56880.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DE8D090.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DEB82B0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38CC1BA50.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DECA8D0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DED7AE0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DEDD4F0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DEF2320.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DF58010.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DF5B820.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DF87660.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DF9A670.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DF9BE80.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DFAC700.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38DFC76A0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E0BFEE0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B364A5AA10.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B388F93A20.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E2EE460.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E2F1470.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E50B0F0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E50CF00.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E513B10.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E516F20.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E545F40.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E54BB60.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E54FF70.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E573590.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E57BBB0.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38E678050.dll
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38EB08110.dll
+[VBE] Cannot find image at C:\Program Files (x86)\RimWorld\Mods\fightanimatons\Textures\AM\UI\BG\Combined.png. This is most likely due to mod list changes, mod updates, or changes in the custom folder. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib] version 10.0.1
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B38F1E4050.dll
+[HugsLib] early-initializing AllowTool
+Fallback handler could not load library C:/Program Files (x86)/RimWorld/RimWorldWin64_Data/Mono/data-000002B3B89B0020.dll
+dubwise.dubsbadhygiene 3.0.2228
+dubwise.dubscentralheating v1.0.55
+Rimatomics 1.7.2500
+[RimHUD v1.13.0] Initialized
+Rimefeller 1.2.1227
+[VanillaAchievementsExpanded] version 1.4.8315
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find type named CompProperties_RoofMe from node <li Class="CompProperties_RoofMe" /> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef RM_Mechanical_Sentinel has BodyPartRecord of RM_MechanicalThoraxSentinel whose children have more or equal coverage than 100% (103.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef RM_Mechanical_Behemoth has BodyPartRecord of RM_MechanicalThoraxBehemoth whose children have more or equal coverage than 100% (102.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef RM_Mechanical_Caretaker has BodyPartRecord of RM_MechanicalThoraxCanManipulateCaretaker whose children have more or equal coverage than 100% (102.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef RM_Mechanical_Wraith has BodyPartRecord of RM_MechanicalWraithBody whose children have more or equal coverage than 100% (102.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef RM_Mechanical_Locust has BodyPartRecord of RM_MechanicalThoraxLocust whose children have more or equal coverage than 100% (102.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef Theropod has BodyPartRecord of Body whose children have more or equal coverage than 100% (100.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef TheropodWithClaws has BodyPartRecord of Body whose children have more or equal coverage than 100% (100.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef BipedalOther has BodyPartRecord of Body whose children have more or equal coverage than 100% (102.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef BirdMimic has BodyPartRecord of Body whose children have more or equal coverage than 100% (100.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef VGE_Theropod has BodyPartRecord of Body whose children have more or equal coverage than 100% (100.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef VGE_TheropodWithClaws has BodyPartRecord of Body whose children have more or equal coverage than 100% (100.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+BodyDef VGE_BipedalOther has BodyPartRecord of Body whose children have more or equal coverage than 100% (102.60%) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Make_Napalm: description has trailing whitespace 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+d3d11: failed to create 2D texture id=17771 width=30 height=30 mips=6 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=17771 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+Mod RimPy Mod Manager Database did not load any content. Following load folders were used:
+  - C:\Program Files (x86)\RimWorld\Mods\rimpy] 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[MVCF] Collecting feature data...
+[MVCF] Mod Vanilla Animals Expanded — Caves is enabling feature RangedAnimals
+[MVCF] Mod Vanilla Animals Expanded — Caves is enabling feature IntegratedToggle
+[MVCF] Mod Vanilla Factions Expanded - Deserters is enabling feature ExtraEquipmentVerbs
+[MVCF] Mod Vanilla Factions Expanded - Deserters is enabling feature VerbComps
+[MVCF] Mod Vanilla Factions Expanded - Pirates is enabling feature IntegratedToggle
+[MVCF] Mod Vanilla Factions Expanded - Pirates is enabling feature ApparelVerbs
+[MVCF] Mod Vanilla Genetics Expanded is enabling feature RangedAnimals
+[MVCF] Mod Vanilla Genetics Expanded is enabling feature HediffVerbs
+[MVCF] Mod Vanilla Genetics Expanded is enabling feature IntegratedToggle
+<color=orange>[VehicleFramework]</color> Importing additional assets from vehicleassets. UnityVersion=2019.4.30f1 Status: <color=#008000FF>successfully loaded.</color>
+Translation data for language Russian / Русский has 809 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Reinforced Mechanoid 2 contains 1 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Vanilla Base Generation Expanded contains 19 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rimatomics found SoS2 -- Patching
+ProsthesesCore races patch loaded successfully, races affected: 
+Human; SoSHologramRace; 
+Reinforced Mechanoid 2 0.9b3
+Universum (ṽ1.10.1) ĥàș șùççèșșƑùſſý ſòàðèð.
+        10 ùṭìſìṭìèș Ƒòùƞð
+        18 þìòṁèș Ƒòùƞð, 14 çòƞƑìğùṟàṭìòƞș Ƒòùƞð
+        439 ṭèṟṟàìƞș Ƒòùƞð, 3 çòƞƑìğùṟàṭìòƞș Ƒòùƞð
+        1235 ğèƞèș Ƒòùƞð, 0 çòƞƑìğùṟàṭìòƞș Ƒòùƞð
+        Aṗṗſìèð ṗàṭçĥ ṭò Càṁèṟà+
+RimNauts 2 (ṽ4.22.1) ĥàș șùççèșșƑùſſý ſòàðèð.
+        16 ðèƑș Ƒòùƞð
+        AșșèṭBùƞðſè ſòàðìƞğ ĥàș Ƒìƞìșĥèð, Ƒòùƞð windows ṗſàṭƑòṟṁ
+[SmashTools] Failed to apply patch <color=#00A680FF>SmashTools.Compatibility_RimHUD</color>. Exception=System.NullReferenceException: Null method for SmashPhil.SmashTools
+  at HarmonyLib.PatchProcessor.Patch () [0x0001d] in <255414689d344b1385ae719f6cce8c55>:0 
+  at HarmonyLib.Harmony.Patch (System.Reflection.MethodBase original, HarmonyLib.HarmonyMethod prefix, HarmonyLib.HarmonyMethod postfix, HarmonyLib.HarmonyMethod transpiler, HarmonyLib.HarmonyMethod finalizer) [0x00028] in <255414689d344b1385ae719f6cce8c55>:0 
+  at SmashTools.Compatibility_RimHUD.PatchAll (Verse.ModMetaData mod, HarmonyLib.Harmony harmony) [0x00030] in <dcee9553479741f3a1ee0b42e3f0886c>:0 
+  at SmashTools.ConditionalPatches..cctor () [0x0008b] in <dcee9553479741f3a1ee0b42e3f0886c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SmashTools] Failed to apply patch <color=#00A680FF>Vehicles.Compatibility_RimHUD</color>. Exception=System.NullReferenceException: Null method for SmashPhil.SmashTools
+  at HarmonyLib.PatchProcessor.Patch () [0x0001d] in <255414689d344b1385ae719f6cce8c55>:0 
+  at HarmonyLib.Harmony.Patch (System.Reflection.MethodBase original, HarmonyLib.HarmonyMethod prefix, HarmonyLib.HarmonyMethod postfix, HarmonyLib.HarmonyMethod transpiler, HarmonyLib.HarmonyMethod finalizer) [0x00028] in <255414689d344b1385ae719f6cce8c55>:0 
+  at Vehicles.Compatibility_RimHUD.PatchAll (Verse.ModMetaData mod, HarmonyLib.Harmony harmony) [0x0002f] in <a00d105a5c8144ec86d79a1b4050b83c>:0 
+  at SmashTools.ConditionalPatches..cctor () [0x0008b] in <dcee9553479741f3a1ee0b42e3f0886c>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SmashPhil.VehicleFramework] Successfully applied compatibility patches for <color=#008080FF>Save Our Ship 2</color>
+<color=orange>[VehicleFramework]</color> version 1.5.1381 rev3980
+<color=orange>[VehicleFramework]</color> <color=#008000FF>167 patches successfully applied.</color>
+Wall Light: v1.4.8348.3000
+Wall Light - SoS2 compatibility initialized.
+SOS2EXP V91f5 active
+[SRTS Expanded] Compatibility with Save our Ship 2 and Combat Extended are temporarily disabled at the moment. SoS2 compatibility will happen soon(ish), CE compatibility will not. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SRTSExpanded] Overriding SOS2 Destructive Patches.
+Could not allocate memory: System out of memory!
+Trying to allocate: 357913940B with 16 alignment. MemoryLabel: NewDelete
+Allocation happened at: Line:0 in Overloaded New[]
+Memory overview
+
+[ ALLOC_TEMP_THREAD ] used: 32992B | peak: 0B | reserved: 3014656B 
+[ ALLOC_TEMP_JOB_1_FRAME ] used: 0B | peak: 0B | reserved: 30408704B 
+[ ALLOC_TEMP_JOB_2_FRAMES ] used: 0B | peak: 0B | reserved: 1048576B 
+[ ALLOC_TEMP_JOB_4_FRAMES ] used: 0B | peak: 0B | reserved: 2097152B 
+[ ALLOC_TEMP_JOB_ASYNC ] used: 0B | peak: 0B | reserved: 5242880B 
+[ ALLOC_DEFAULT ] used: 726804830B | peak: 0B | reserved: 746782720B 
+[ ALLOC_GFX ] used: 1552126610B | peak: 0B | reserved: 1589825536B 
+[ ALLOC_CACHEOBJECTS ] used: 141467992B | peak: 0B | reserved: 153092096B 
+[ ALLOC_TYPETREE ] used: 303488B | peak: 0B | reserved: 4194304B 
+Could not allocate memory: System out of memory!
+Trying to allocate: 357913940B with 16 alignment. MemoryLabel: NewDelete
+Allocation happened at: Line:0 in Overloaded New[]
+Memory overview
+
+[ ALLOC_TEMP_THREAD ] used: 32992B | peak: 0B | reserved: 3014656B 
+[ ALLOC_TEMP_JOB_1_FRAME ] used: 0B | peak: 0B | reserved: 30408704B 
+[ ALLOC_TEMP_JOB_2_FRAMES ] used: 0B | peak: 0B | reserved: 1048576B 
+[ ALLOC_TEMP_JOB_4_FRAMES ] used: 0B | peak: 0B | reserved: 2097152B 
+[ ALLOC_TEMP_JOB_ASYNC ] used: 0B | peak: 0B | reserved: 5242880B 
+[ ALLOC_DEFAULT ] used: 726804830B | peak: 0B | reserved: 746782720B 
+[ ALLOC_GFX ] used: 1552126610B | peak: 0B | reserved: 1589825536B 
+[ ALLOC_CACHEOBJECTS ] used: 141467992B | peak: 0B | reserved: 153092096B 
+[ ALLOC_TYPETREE ] used: 303488B | peak: 0B | reserved: 4194304B 
+ 
+(Filename:  Line: 1507)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Program Files (x86)\RimWorld;C:\Program Files (x86)\RimWorld;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'Pelmen'
+OS-Version: 10.0.0
+C:\Program Files (x86)\RimWorld\RimWorldWin64.exe:RimWorldWin64.exe (00007FF7EC770000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FFC08610000), size: 2064384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFC07EA0000), size: 774144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1889
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFC06230000), size: 2957312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\SYSTEM32\apphelp.dll:apphelp.dll (00007FFC02FA0000), size: 593920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Program Files (x86)\RimWorld\UnityPlayer.dll:UnityPlayer.dll (00007FFBA4160000), size: 27037696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\Windows\System32\USER32.dll:USER32.dll (00007FFC082C0000), size: 1691648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\System32\win32u.dll:win32u.dll (00007FFC05D20000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FFC08500000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FFC05E80000), size: 1110016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FFC06040000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FFC05D50000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\Windows\System32\ole32.dll:ole32.dll (00007FFC07970000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1202
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FFC07420000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\combase.dll:combase.dll (00007FFC07F60000), size: 3489792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FFC04340000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FFC08530000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFC076B0000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFC06FA0000), size: 4648960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFC06170000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FFC05E50000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFC07790000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\System32\sechost.dll:sechost.dll (00007FFC08460000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FFC06710000), size: 7614464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFC07880000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.985
+C:\Windows\System32\IMM32.dll:IMM32.dll (00007FFC07850000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFBDBCE0000), size: 1208320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FFC06510000), size: 1400832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1889
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FFC07CB0000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FFC04310000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFBF68D0000), size: 1101824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (00007FFC04110000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FFBDBC70000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFC044E0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFC060E0000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FFC031B0000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\System32\shcore.dll:shcore.dll (00007FFC07550000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFC03940000), size: 7933952 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\SYSTEM32\Wldp.dll:Wldp.dll (00007FFC05680000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FFC05C60000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\Program Files (x86)\RimWorld\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFBA39F0000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (00007FFC07410000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FFC05060000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (00007FFC07D20000), size: 1134592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FFC01370000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FFC04550000), size: 995328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_77369ead7ddd9683\igd10iumd64.dll:igd10iumd64.dll (00007FFBFBBB0000), size: 675840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.101.2115
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_77369ead7ddd9683\igd10um64gen11.DLL:igd10um64gen11.DLL (00007FFBFB490000), size: 7421952 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.101.2115
+C:\Windows\SYSTEM32\ncrypt.dll:ncrypt.dll (00007FFC056F0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.662
+C:\Windows\SYSTEM32\NTASN1.dll:NTASN1.dll (00007FFC056B0000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_77369ead7ddd9683\igdgmm64.dll:igdgmm64.dll (00007FFBFA3B0000), size: 4231168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.101.2115
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_77369ead7ddd9683\igc64.dll:igc64.dll (00007FFBF6C10000), size: 58277888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.101.2115
+C:\Windows\SYSTEM32\dxcore.dll:dxcore.dll (00007FFBFBD90000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FFC07600000), size: 716800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFBF0210000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFBF4DB0000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFBEA510000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (00007FFBEA5B0000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\amsi.dll:amsi.dll (00007FFBFE8C0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (00007FFC05C20000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.572
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.23090.2008-0\MpOav.dll:MpOav.dll (00007FFBFE840000), size: 507904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.23090.2008
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (00007FFBFE050000), size: 544768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1503
+C:\Windows\System32\DEVOBJ.dll:DEVOBJ.dll (00007FFC059D0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFBFD5A0000), size: 1581056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (00007FFC05A50000), size: 307200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FFC05A30000), size: 73728 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FFC032D0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\Windows\SYSTEM32\dcomp.dll:dcomp.dll (00007FFC022B0000), size: 1978368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFC034E0000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFBE6C10000), size: 1019904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFC02930000), size: 3530752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFC04DB0000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFC02C90000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FFC02000000), size: 1392640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\System32\NSI.dll:NSI.dll (00007FFC06700000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFBFC5A0000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFBFBDD0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\Windows\system32\mswsock.dll:mswsock.dll (00007FFC05370000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFC050A0000), size: 827392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\Program Files\Bonjour\mdnsNSP.dll:mdnsNSP.dll (000000005EF00000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.1.0.1
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFBF6780000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2006
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFBFDF60000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFC05560000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (00007FFC04C90000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (00007FFC05580000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FFC05810000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\gpapi.dll:gpapi.dll (00007FFC04500000), size: 143360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2006
+C:\Windows\SYSTEM32\Msacm32.DLL:Msacm32.DLL (00007FFBFD310000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\Windows\SYSTEM32\winmmbase.dll:winmmbase.dll (00007FFBF62F0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\Windows\System32\l3codeca.acm:l3codeca.acm (00007FFBFD490000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.9.0.401
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFC04120000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.867
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFC05BE0000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFBA4F342BB (UnityPlayer) UnityMain
+0x00007FFBA4F33DCA (UnityPlayer) UnityMain
+0x00007FFBA46EF202 (UnityPlayer) UnityMain
+0x00007FFBA46ED0CE (UnityPlayer) UnityMain
+0x00007FFBA46ECCD3 (UnityPlayer) UnityMain
+0x00007FFBA47F4491 (UnityPlayer) UnityMain
+0x00007FFBA4AE9097 (UnityPlayer) UnityMain
+0x000002B3AFB1A5C9 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Texture2D:Compress (UnityEngine.Texture2D,bool)
+0x000002B3E8729E9B (Mono JIT Code) Verse.StaticTextureAtlas:Bake (bool)
+0x000002B3E8728A5B (Mono JIT Code) Verse.GlobalTextureAtlasManager:<BakeStaticAtlases>g__FlushBatch|7_0 (Verse.TextureAtlasGroupKey,Verse.GlobalTextureAtlasManager/<>c__DisplayClass7_0&)
+0x000002B3E8727F1B (Mono JIT Code) Verse.GlobalTextureAtlasManager:BakeStaticAtlases ()
+0x000002B53AD91FE3 (Mono JIT Code) Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_5 ()
+0x000002B38BC33E2C (Mono JIT Code) Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+0x000002B38BC3457B (Mono JIT Code) Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+0x000002B389B5EAE3 (Mono JIT Code) Verse.LongEventHandler:LongEventsUpdate (bool&)
+0x000002B38FA7DF73 (Mono JIT Code) (wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+0x000002B389B5D5AB (Mono JIT Code) Verse.Root_Entry:Update ()
+0x000002B1BFAAEC30 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x00007FFBA3B1E270 (mono-2.0-bdwgc) mono_get_runtime_build_info
+0x00007FFBA3AA2AE2 (mono-2.0-bdwgc) mono_perfcounters_init
+0x00007FFBA3AABB3F (mono-2.0-bdwgc) mono_runtime_invoke
+0x00007FFBA4A3606D (UnityPlayer) UnityMain
+0x00007FFBA4A33443 (UnityPlayer) UnityMain
+0x00007FFBA4A1C603 (UnityPlayer) UnityMain
+0x00007FFBA4A1C6BD (UnityPlayer) UnityMain
+0x00007FFBA47A8110 (UnityPlayer) UnityMain
+0x00007FFBA48F63C7 (UnityPlayer) UnityMain
+0x00007FFBA48F6463 (UnityPlayer) UnityMain
+0x00007FFBA48F88BC (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Попытка обращения к неверному адресу.' (Address: 00007FFBA46A751E)
+0x00007FFBA46A751E (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Попытка обращения к неверному адресу.' (Address: 00007FFBA46A627A)
+0x00007FFBA46A627A (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Попытка обращения к неверному адресу.' (Address: 00007FFBA46AA32C)
+0x00007FFBA46AA32C (UnityPlayer) (function-name not available)
+0x00007FFBA46ADE1B (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Попытка обращения к неверному адресу.' (Address: 00007FF7EC7711F2)
+0x00007FF7EC7711F2 (RimWorldWin64) (function-name not available)
+0x00007FFC07EB7034 (KERNEL32) BaseThreadInitThunk
+0x00007FFC086626A1 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/DELL/AppData/Local/Temp/Ludeon Studios/RimWorld by Ludeon Studios/Crashes
